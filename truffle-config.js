@@ -6,6 +6,7 @@
  *
  * More information about configuration can be found at:
  *
+ * 
  * https://trufflesuite.com/docs/truffle/reference/configuration
  *
  * Hands-off deployment with Infura
